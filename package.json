@@ -44,7 +44,7 @@
   "keywords": [
     "usb"
   ],
-  "repository": "https://github.com/OpenBuilds/OpenBuilds-CONTROL",
+  "repository": "https://github.com/gibmers/OBC_Ctrlinator.git",
   "build": {
     "publish": [
       {
